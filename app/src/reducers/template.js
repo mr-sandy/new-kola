@@ -1,3 +1,4 @@
+import { warranty } from './big';
 
 const defaultState = {
     components: [
@@ -37,7 +38,7 @@ const defaultState = {
     ]
 }
 
-const template = (prevState = defaultState, action) => {
+const template = (prevState = warranty, action) => {
     switch (action.type) {
 
         default:

@@ -1,21 +1,44 @@
 import React from 'react';
-import Atom from './Atom';
-import Container from './Container';
+import { getComponent } from '../registry';
+
+const buildProps = ({ properties = [] }) => {
+    return properties.reduce((result, p) => {
+        result[p.name] = p.value;
+        return result;
+    }, {});
+};
 
 class Component extends React.Component {
     render() {
         const { component } = this.props;
 
-        switch (component.type) {
-            case 'atom':
-                return <Atom component={component} />;
+        if (component) {
 
-            case 'container':
-                return <Container component={component} />;
+            const Comp = getComponent(component.name);
+            const props = buildProps(component);
+            const childComponents = component.children || component.components
+            const children = childComponents
+                ? childComponents.map((c, i) => <Component component={c} key={i} />)
+                : false;
 
-            default:
-                return false;
+            if (Comp) {
+                return (
+                    <Comp {...props}>
+                        {children}
+                    </Comp>
+                );
+            }
+
+            if (children) {
+                return (
+                    <React.Fragment>
+                        {children}
+                    </React.Fragment>
+                );
+            }
         }
+
+        return false;
     }
 }
 

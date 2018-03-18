@@ -4,9 +4,12 @@ import createStoreFunction from './configureStore';
 import Root from './components/Root';
 import reducer from './reducers';
 import { AppContainer } from 'react-hot-loader';
+import { initialiseComponents } from './initialiseComponents';
 import './css/index.scss';
 
 const initialState = {};
+
+initialiseComponents();
 
 const store = createStoreFunction(reducer, initialState);
 
