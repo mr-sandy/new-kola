@@ -51,611 +51,611 @@ export const warranty = {
                                 "annotateComponentPaths": false
                             }
                         },
-                        // {
-                        //     "name": "html-metadata",
-                        //     "properties": [
-                        //         {
-                        //             "name": "name",
-                        //             "value": "description"
-                        //         },
-                        //         {
-                        //             "name": "content",
-                        //             "value": "Terms and conditions for the Linn five year warranty"
-                        //         }
-                        //     ],
-                        //     "path": null,
-                        //     "renderingInstructions": {
-                        //         "cacheControl": "public, max-age=600",
-                        //         "showAmendments": false,
-                        //         "annotateComponentPaths": false
-                        //     }
-                        // },
-                        // {
-                        //     "components": [
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "content",
-                        //                     "value": "noodp"
-                        //                 },
-                        //                 {
-                        //                     "name": "name",
-                        //                     "value": "robots"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "charset",
-                        //                     "value": "UTF-8"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "content",
-                        //                     "value": "IE=edge"
-                        //                 },
-                        //                 {
-                        //                     "name": "httpEquiv",
-                        //                     "value": "X-UA-Compatible"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "name",
-                        //                     "value": "viewport"
-                        //                 },
-                        //                 {
-                        //                     "name": "content",
-                        //                     "value": "width=device-width, initial-scale=1"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "content",
-                        //                     "value": "Copyright (c) 2012 by Linn"
-                        //                 },
-                        //                 {
-                        //                     "name": "name",
-                        //                     "value": "copyright"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "name",
-                        //                     "value": "google-site-verification"
-                        //                 },
-                        //                 {
-                        //                     "name": "content",
-                        //                     "value": "29PCVXsOvcqWtMAXMGb8RpWfXXQM94OKEIlu"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-metadata",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "name",
-                        //                     "value": "p:domain_verify"
-                        //                 },
-                        //                 {
-                        //                     "name": "content",
-                        //                     "value": "b9e5bcf3e2708fa820b23a69a2850943"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "image/x-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "shortcut icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/favicon.ico"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x58.png"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x76.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "76x76"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x120.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "120x120"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x152.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "152x152"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x180.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "180x180"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x240.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "240x240"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x304.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "304x304"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "apple-touch-icon"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/images/icons/linn-icon-x540.png"
-                        //                 },
-                        //                 {
-                        //                     "name": "sizes",
-                        //                     "value": "540x540"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/gridset/gridset.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "gt9"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/gridset/gridset-ie-9.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 },
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "9"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/gridset/gridset-ie-lte8.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 },
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "lte8"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "gt8"
-                        //                 },
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/linn.1.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "gt8"
-                        //                 },
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/linn.2.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "gt8"
-                        //                 },
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/linn.3.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-link",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "lte8"
-                        //                 },
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/css"
-                        //                 },
-                        //                 {
-                        //                     "name": "href",
-                        //                     "value": "responsive/css/linn-ie-lte8.css"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 },
-                        //                 {
-                        //                     "name": "rel",
-                        //                     "value": "stylesheet"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         },
-                        //         {
-                        //             "name": "html-script",
-                        //             "properties": [
-                        //                 {
-                        //                     "name": "type",
-                        //                     "value": "text/javascript"
-                        //                 },
-                        //                 {
-                        //                     "name": "src",
-                        //                     "value": "/responsive/scripts/html5shiv.js"
-                        //                 },
-                        //                 {
-                        //                     "name": "ie-condition",
-                        //                     "value": "lt9"
-                        //                 },
-                        //                 {
-                        //                     "name": "cache-buster",
-                        //                     "value": "14Mar18"
-                        //                 }
-                        //             ],
-                        //             "path": null,
-                        //             "renderingInstructions": {
-                        //                 "cacheControl": "public, max-age=600",
-                        //                 "showAmendments": false,
-                        //                 "annotateComponentPaths": false
-                        //             }
-                        //         }
-                        //     ],
-                        //     "path": null,
-                        //     "renderingInstructions": {
-                        //         "cacheControl": "public, max-age=600",
-                        //         "showAmendments": false,
-                        //         "annotateComponentPaths": false
-                        //     }
-                        // }
+                        {
+                            "name": "html-metadata",
+                            "properties": [
+                                {
+                                    "name": "name",
+                                    "value": "description"
+                                },
+                                {
+                                    "name": "content",
+                                    "value": "Terms and conditions for the Linn five year warranty"
+                                }
+                            ],
+                            "path": null,
+                            "renderingInstructions": {
+                                "cacheControl": "public, max-age=600",
+                                "showAmendments": false,
+                                "annotateComponentPaths": false
+                            }
+                        },
+                        {
+                            "components": [
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "content",
+                                            "value": "noodp"
+                                        },
+                                        {
+                                            "name": "name",
+                                            "value": "robots"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "charset",
+                                            "value": "UTF-8"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "content",
+                                            "value": "IE=edge"
+                                        },
+                                        {
+                                            "name": "httpEquiv",
+                                            "value": "X-UA-Compatible"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "name",
+                                            "value": "viewport"
+                                        },
+                                        {
+                                            "name": "content",
+                                            "value": "width=device-width, initial-scale=1"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "content",
+                                            "value": "Copyright (c) 2012 by Linn"
+                                        },
+                                        {
+                                            "name": "name",
+                                            "value": "copyright"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "name",
+                                            "value": "google-site-verification"
+                                        },
+                                        {
+                                            "name": "content",
+                                            "value": "29PCVXsOvcqWtMAXMGb8RpWfXXQM94OKEIlu"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-metadata",
+                                    "properties": [
+                                        {
+                                            "name": "name",
+                                            "value": "p:domain_verify"
+                                        },
+                                        {
+                                            "name": "content",
+                                            "value": "b9e5bcf3e2708fa820b23a69a2850943"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "type",
+                                            "value": "image/x-icon"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "shortcut icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/favicon.ico"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x58.png"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x76.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "76x76"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x120.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "120x120"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x152.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "152x152"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x180.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "180x180"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x240.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "240x240"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x304.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "304x304"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "rel",
+                                            "value": "apple-touch-icon"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/images/icons/linn-icon-x540.png"
+                                        },
+                                        {
+                                            "name": "sizes",
+                                            "value": "540x540"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/gridset/gridset.css"
+                                        },
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "gt9"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/gridset/gridset-ie-9.css"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        },
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "9"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/gridset/gridset-ie-lte8.css"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        },
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "lte8"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "gt8"
+                                        },
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/linn.1.css"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "gt8"
+                                        },
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/linn.2.css"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "gt8"
+                                        },
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/linn.3.css"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-link",
+                                    "properties": [
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "lte8"
+                                        },
+                                        {
+                                            "name": "type",
+                                            "value": "text/css"
+                                        },
+                                        {
+                                            "name": "href",
+                                            "value": "responsive/css/linn-ie-lte8.css"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        },
+                                        {
+                                            "name": "rel",
+                                            "value": "stylesheet"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                },
+                                {
+                                    "name": "html-script",
+                                    "properties": [
+                                        {
+                                            "name": "type",
+                                            "value": "text/javascript"
+                                        },
+                                        {
+                                            "name": "src",
+                                            "value": "/responsive/scripts/html5shiv.js"
+                                        },
+                                        {
+                                            "name": "ie-condition",
+                                            "value": "lt9"
+                                        },
+                                        {
+                                            "name": "cache-buster",
+                                            "value": "14Mar18"
+                                        }
+                                    ],
+                                    "path": null,
+                                    "renderingInstructions": {
+                                        "cacheControl": "public, max-age=600",
+                                        "showAmendments": false,
+                                        "annotateComponentPaths": false
+                                    }
+                                }
+                            ],
+                            "path": null,
+                            "renderingInstructions": {
+                                "cacheControl": "public, max-age=600",
+                                "showAmendments": false,
+                                "annotateComponentPaths": false
+                            }
+                        }
                     ],
                     "path": null,
                     "renderingInstructions": {
@@ -949,7 +949,7 @@ export const warranty = {
                                                                             "properties": [
                                                                                 {
                                                                                     "name": "html",
-                                                                                    "value": "<ul class=\"text-align-right-aa display-inline-block\">\n<li class=\"hh-hide\"><a href=\"/music-systems\">Music Systems</a></li>\n<li class=\"hh-hide\"><a href=\"/hifi-separates\">Hi-Fi Separates</a></li>\n<li class=\"gg-hide\"><a href=\"/try-a-system\">Try Linn</a></li>\n<li class=\"gg-hide\"><a href=\"/find-a-shop\">Find a Shop</a></li>\n<li class=\"ff-hide\"><a href=\"/about\">About Us</a></li>\n<li class=\"\" >\n<button class=\"font-weight-light-aa height-9-aa pad-r-8-aa margin-r-6-aa border-t-none-aa border-b-none-aa border-l-none-aa border-r-none-aa font-size-17-aa line-height-36-aa content-switch\" type=\"button\"  data-target-content-id=\"full-menu\">\n<span class=\"hh-hide\">Full </span><span class=\"ii-hide\">Menu</span>\n<i class=\"burger chicken margin-t-1-and-a-half-aa\"></i>\n</button>\n</li>\n</ul>\n\n                              "
+                                                                                    "value": "<ul class=\"text-align-right-aa display-inline-block\">\n<li class=\"hh-hide\"><a href=\"/music-systems\">Music Systems</a></li>\n<li class=\"hh-hide\"><a href=\"/hifi-separates\">Hi-Fi Separates</a></li>\n<li class=\"gg-hide\"><a href=\"/try-a-system\">Try Linn</a></li>\n<li class=\"gg-hide\"><a href=\"/find-a-shop\">Find a Shop</a></li>\n<li class=\"ff-hide\"><a href=\"/about\">About Us</a></li>\n<li class=\"\" >\n<button class=\"font-weight-light-aa height-9-aa pad-r-8-aa margin-r-6-aa border-t-none-aa border-b-none-aa border-l-none-aa border-r-none-aa font-size-17-aa line-height-36-aa content-switch\" type=\"button\"  data-target-content-id=\"full-menu\">\n<span class=\"hh-hide\">Full </span><span class=\"ii-hide\">Menu</span>\n<i class=\"burger chicken margin-t-1-and-a-half-aa\"></i>\n</button>\n</li>\n</ul>"
                                                                                 }
                                                                             ],
                                                                             "path": null,
@@ -1027,7 +1027,7 @@ export const warranty = {
                                                             "properties": [
                                                                 {
                                                                     "name": "background-colour",
-                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"},{\"grid\":\"ii\",\"colour\":\"white\"}]\n\n          "
+                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"},{\"grid\":\"ii\",\"colour\":\"white\"}]"
                                                                 },
                                                                 {
                                                                     "name": "height",
@@ -1035,23 +1035,23 @@ export const warranty = {
                                                                 },
                                                                 {
                                                                     "name": "grid-placement",
-                                                                    "value": "[{\"grid\":\"ff\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n          "
+                                                                    "value": "[{\"grid\":\"ff\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                 },
                                                                 {
                                                                     "name": "position",
-                                                                    "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"right\"}]},{\"grid\":\"ii\",\"positions\":[{\"position\":\"none\"}]}]\n\n          "
+                                                                    "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"right\"}]},{\"grid\":\"ii\",\"positions\":[{\"position\":\"none\"}]}]"
                                                                 },
                                                                 {
                                                                     "name": "width",
-                                                                    "value": "[{\"grid\":\"aa\",\"width\":{\"type\":\"proportional\",\"value\":\"half\"}}]\n\n          "
+                                                                    "value": "[{\"grid\":\"aa\",\"width\":{\"type\":\"proportional\",\"value\":\"half\"}}]"
                                                                 },
                                                                 {
                                                                     "name": "border-colour",
-                                                                    "value": "[{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n          "
+                                                                    "value": "[{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                 },
                                                                 {
                                                                     "name": "border-style",
-                                                                    "value": "[{\"grid\":\"ii\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n          "
+                                                                    "value": "[{\"grid\":\"ii\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                 },
                                                                 {
                                                                     "name": "padding",
@@ -1124,7 +1124,7 @@ export const warranty = {
                                                                 },
                                                                 {
                                                                     "name": "href",
-                                                                    "value": "/\n\n          "
+                                                                    "value": "/"
                                                                 },
                                                                 {
                                                                     "name": "position",
@@ -1164,7 +1164,7 @@ export const warranty = {
                                                             "properties": [
                                                                 {
                                                                     "name": "inner-type",
-                                                                    "value": "[{\"grid\":\"aa\",\"type\":\"full\"}]\n\n          "
+                                                                    "value": "[{\"grid\":\"aa\",\"type\":\"full\"}]"
                                                                 }
                                                             ],
                                                             "components": [
@@ -1173,23 +1173,23 @@ export const warranty = {
                                                                     "properties": [
                                                                         {
                                                                             "name": "grid-placement",
-                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"1-12\"}]\n\n              "
+                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"1-12\"}]"
                                                                         },
                                                                         {
                                                                             "name": "font",
-                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"17\",\"fontWeight\":\"bold\",\"lineHeight\":\"\"}]\n\n              "
+                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"17\",\"fontWeight\":\"bold\",\"lineHeight\":\"\"}]"
                                                                         },
                                                                         {
                                                                             "name": "padding",
-                                                                            "value": "[{\"grid\":\"zz\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"6\"},{\"edge\":\"right\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"},{\"edge\":\"right\",\"value\":\"0\"}]}]\n\n              "
+                                                                            "value": "[{\"grid\":\"zz\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"6\"},{\"edge\":\"right\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"},{\"edge\":\"right\",\"value\":\"0\"}]}]"
                                                                         },
                                                                         {
                                                                             "name": "text-colour",
-                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"black\"}]\n\n              "
+                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"black\"}]"
                                                                         },
                                                                         {
                                                                             "name": "overflow",
-                                                                            "value": "[{\"grid\":\"aa\",\"overflow\":\"hidden\"}]\n\n              "
+                                                                            "value": "[{\"grid\":\"aa\",\"overflow\":\"hidden\"}]"
                                                                         }
                                                                     ],
                                                                     "components": [
@@ -1202,15 +1202,15 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -1231,7 +1231,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -1239,7 +1239,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         }
                                                                                     ],
                                                                                     "components": [],
@@ -1311,19 +1311,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -1332,7 +1332,7 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/music-systems\n\n                      "
+                                                                                            "value": "/music-systems"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
@@ -1340,7 +1340,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -1348,11 +1348,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -1361,11 +1361,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Music Systems\n\n                          "
+                                                                                                    "value": "Music Systems"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -1388,31 +1388,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/music-systems\n\n                      "
+                                                                                            "value": "/music-systems"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -1425,11 +1425,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Music Systems\n\n                          "
+                                                                                                    "value": "Music Systems"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -1456,7 +1456,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -1464,7 +1464,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -1473,11 +1473,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1486,11 +1486,11 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems\n\n                              "
+                                                                                                            "value": "/music-systems"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Overview\n\n                              "
+                                                                                                            "value": "Overview"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "css-class",
@@ -1518,11 +1518,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1531,15 +1531,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems/klimax\n\n                              "
+                                                                                                            "value": "/music-systems/klimax"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Klimax\n\n                              "
+                                                                                                            "value": "Klimax"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -1563,11 +1563,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1576,15 +1576,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems/akubarik\n\n                              "
+                                                                                                            "value": "/music-systems/akubarik"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Akubarik\n\n                              "
+                                                                                                            "value": "Akubarik"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -1608,11 +1608,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1621,15 +1621,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems/akudorik\n\n                              "
+                                                                                                            "value": "/music-systems/akudorik"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Akudorik\n\n                              "
+                                                                                                            "value": "Akudorik"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -1653,11 +1653,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1666,15 +1666,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems/series-5\n\n                              "
+                                                                                                            "value": "/music-systems/series-5"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Series 5\n\n                              "
+                                                                                                            "value": "Series 5"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -1698,11 +1698,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1711,15 +1711,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems/majik\n\n                              "
+                                                                                                            "value": "/music-systems/majik"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Majik\n\n                              "
+                                                                                                            "value": "Majik"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -1743,11 +1743,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1756,15 +1756,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/music-systems/kiko\n\n                              "
+                                                                                                            "value": "/music-systems/kiko"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Kiko\n\n                              "
+                                                                                                            "value": "Kiko"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -1808,19 +1808,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -1829,15 +1829,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/hifi-separates\n\n                      "
+                                                                                            "value": "/hifi-separates"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -1845,11 +1845,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -1858,7 +1858,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Hi-Fi Separates\n\n                          "
+                                                                                                    "value": "Hi-Fi Separates"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -1881,31 +1881,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/hifi-separates\n\n                      "
+                                                                                            "value": "/hifi-separates"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -1918,11 +1918,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Hi-Fi Separates\n\n                          "
+                                                                                                    "value": "Hi-Fi Separates"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -1945,11 +1945,11 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -1957,7 +1957,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -1966,11 +1966,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -1979,15 +1979,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates\n\n                              "
+                                                                                                            "value": "/hifi-separates"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Overview\n\n                              "
+                                                                                                            "value": "Overview"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2011,11 +2011,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2024,19 +2024,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/network-music-players\n\n                              "
+                                                                                                            "value": "/hifi-separates/network-music-players"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Network Music Players\n\n                              "
+                                                                                                            "value": "Network Music Players"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2052,19 +2052,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/network-music-players\n\n                              "
+                                                                                                            "value": "/hifi-separates/network-music-players"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Network Players\n\n                              "
+                                                                                                            "value": "Network Players"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2088,11 +2088,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-7\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-7\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2101,15 +2101,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/speakers\n\n                              "
+                                                                                                            "value": "/hifi-separates/speakers"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Speakers\n\n                              "
+                                                                                                            "value": "Speakers"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2133,11 +2133,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2146,19 +2146,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/turntables\n\n                              "
+                                                                                                            "value": "/hifi-separates/turntables"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Turntables\n\n                              "
+                                                                                                            "value": "Turntables"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "padding",
-                                                                                                            "value": "[]\n\n                              "
+                                                                                                            "value": "[]"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2182,11 +2182,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-7\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-7\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2195,19 +2195,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/upgrades\n\n                              "
+                                                                                                            "value": "/hifi-separates/upgrades"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Upgrades\n\n                              "
+                                                                                                            "value": "Upgrades"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "padding",
-                                                                                                            "value": "[]\n\n                              "
+                                                                                                            "value": "[]"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2231,11 +2231,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2244,15 +2244,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/power-amps\n\n                              "
+                                                                                                            "value": "/hifi-separates/power-amps"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Amps\n\n                              "
+                                                                                                            "value": "Amps"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2276,11 +2276,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2289,15 +2289,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/hifi-separates/accessories\n\n                              "
+                                                                                                            "value": "/hifi-separates/accessories"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Accessories\n\n                              "
+                                                                                                            "value": "Accessories"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2341,19 +2341,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -2362,15 +2362,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/try-a-system\n\n                      "
+                                                                                            "value": "/try-a-system"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -2378,11 +2378,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -2391,7 +2391,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Try Linn\n\n                          "
+                                                                                                    "value": "Try Linn"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -2414,23 +2414,23 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/try-a-system\n\n                      "
+                                                                                            "value": "/try-a-system"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -2443,11 +2443,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Try Linn\n\n                          "
+                                                                                                    "value": "Try Linn"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -2474,7 +2474,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -2482,7 +2482,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -2491,11 +2491,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2504,19 +2504,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/try-a-system\n\n                              "
+                                                                                                            "value": "/try-a-system"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Book a Demo\n\n                              "
+                                                                                                            "value": "Book a Demo"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2532,19 +2532,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/try-a-system\n\n                              "
+                                                                                                            "value": "/try-a-system"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Book a Demo\n\n                              "
+                                                                                                            "value": "Book a Demo"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2588,19 +2588,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -2609,15 +2609,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/find-a-shop\n\n                      "
+                                                                                            "value": "/find-a-shop"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -2625,11 +2625,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -2638,7 +2638,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Find a Shop\n\n                          "
+                                                                                                    "value": "Find a Shop"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -2661,23 +2661,23 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/find-a-shop\n\n                      "
+                                                                                            "value": "/find-a-shop"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -2690,11 +2690,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Find a Shop\n\n                          "
+                                                                                                    "value": "Find a Shop"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -2721,7 +2721,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -2729,7 +2729,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -2738,11 +2738,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -2751,19 +2751,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/find-a-shop\n\n                              "
+                                                                                                            "value": "/find-a-shop"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Search Retailers\n\n                              "
+                                                                                                            "value": "Search Retailers"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2779,19 +2779,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/find-a-shop\n\n                              "
+                                                                                                            "value": "/find-a-shop"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Search Retailers\n\n                              "
+                                                                                                            "value": "Search Retailers"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -2835,19 +2835,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -2856,15 +2856,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/about\n\n                      "
+                                                                                            "value": "/about"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -2872,11 +2872,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -2885,7 +2885,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "About Us\n\n                          "
+                                                                                                    "value": "About Us"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -2908,31 +2908,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/about\n\n                      "
+                                                                                            "value": "/about"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -2945,11 +2945,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "About Us\n\n                          "
+                                                                                                    "value": "About Us"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -2972,11 +2972,11 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -2984,7 +2984,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -2993,11 +2993,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -3006,19 +3006,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/about\n\n                              "
+                                                                                                            "value": "/about"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "What We Do\n\n                              "
+                                                                                                            "value": "What We Do"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3034,19 +3034,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/about\n\n                              "
+                                                                                                            "value": "/about"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "What We Do\n\n                              "
+                                                                                                            "value": "What We Do"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3070,11 +3070,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -3083,19 +3083,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/about/our-story\n\n                              "
+                                                                                                            "value": "/about/our-story"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Our Story\n\n                              "
+                                                                                                            "value": "Our Story"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3111,19 +3111,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/about/our-story\n\n                              "
+                                                                                                            "value": "/about/our-story"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Our Story\n\n                              "
+                                                                                                            "value": "Our Story"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3147,11 +3147,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -3160,15 +3160,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/find-a-shop#visit\n\n                              "
+                                                                                                            "value": "/find-a-shop#visit"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Visit Linn\n\n                              "
+                                                                                                            "value": "Visit Linn"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3192,11 +3192,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -3205,15 +3205,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/support\n\n                              "
+                                                                                                            "value": "/support"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Contact Us\n\n                              "
+                                                                                                            "value": "Contact Us"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3257,19 +3257,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -3278,15 +3278,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/events\n\n                      "
+                                                                                            "value": "/events"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -3294,11 +3294,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -3307,7 +3307,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Events\n\n                          "
+                                                                                                    "value": "Events"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -3330,23 +3330,23 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/events\n\n                      "
+                                                                                            "value": "/events"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -3359,11 +3359,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Events\n\n                          "
+                                                                                                    "value": "Events"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -3390,7 +3390,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -3398,7 +3398,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -3407,11 +3407,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -3420,19 +3420,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/events\n\n                              "
+                                                                                                            "value": "/events"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Book Now\n\n                              "
+                                                                                                            "value": "Book Now"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3448,19 +3448,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/events\n\n                              "
+                                                                                                            "value": "/events"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Book Now\n\n                              "
+                                                                                                            "value": "Book Now"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3504,19 +3504,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -3525,15 +3525,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/technology\n\n                      "
+                                                                                            "value": "/technology"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -3541,11 +3541,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -3554,7 +3554,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Technology\n\n                          "
+                                                                                                    "value": "Technology"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -3577,31 +3577,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/technology\n\n                      "
+                                                                                            "value": "/technology"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -3614,11 +3614,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Technology\n\n                          "
+                                                                                                    "value": "Technology"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -3645,7 +3645,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -3653,7 +3653,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -3662,7 +3662,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
@@ -3675,19 +3675,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/technology/space-optimisation\n\n                              "
+                                                                                                            "value": "/technology/space-optimisation"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Space Optimisation\n\n                              "
+                                                                                                            "value": "Space Optimisation"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3703,19 +3703,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/technology/space-optimisation\n\n                              "
+                                                                                                            "value": "/technology/space-optimisation"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Space Optimisation\n\n                              "
+                                                                                                            "value": "Space Optimisation"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3739,7 +3739,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
@@ -3752,15 +3752,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/technology/exakt\n\n                              "
+                                                                                                            "value": "/technology/exakt"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Exakt\n\n                              "
+                                                                                                            "value": "Exakt"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3784,11 +3784,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -3797,15 +3797,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/technology/katalyst\n\n                              "
+                                                                                                            "value": "/technology/katalyst"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Katalyst\n\n                              "
+                                                                                                            "value": "Katalyst"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -3849,19 +3849,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -3870,15 +3870,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/community\n\n                      "
+                                                                                            "value": "/community"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -3886,11 +3886,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -3899,7 +3899,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Community\n\n                          "
+                                                                                                    "value": "Community"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -3922,31 +3922,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/\n\n                      "
+                                                                                            "value": "/"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -3959,11 +3959,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Community\n\n                          "
+                                                                                                    "value": "Community"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -3986,11 +3986,11 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -3998,7 +3998,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4007,11 +4007,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4020,15 +4020,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "http://forums.linn.co.uk/bb/\n\n                              "
+                                                                                                            "value": "http://forums.linn.co.uk/bb/"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Forums\n\n                              "
+                                                                                                            "value": "Forums"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4052,11 +4052,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4065,15 +4065,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "http://news.linn.co.uk/news/\n\n                              "
+                                                                                                            "value": "http://news.linn.co.uk/news/"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "News\n\n                              "
+                                                                                                            "value": "News"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4097,11 +4097,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4118,7 +4118,7 @@ export const warranty = {
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4142,11 +4142,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4155,15 +4155,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "https://www.facebook.com/linnhifi\n\n                              "
+                                                                                                            "value": "https://www.facebook.com/linnhifi"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Facebook\n\n                              "
+                                                                                                            "value": "Facebook"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4187,11 +4187,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4200,15 +4200,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "https://twitter.com/linnproducts\n\n                              "
+                                                                                                            "value": "https://twitter.com/linnproducts"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Twitter\n\n                              "
+                                                                                                            "value": "Twitter"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4252,19 +4252,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -4273,15 +4273,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/software\n\n                      "
+                                                                                            "value": "/software"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -4289,11 +4289,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4302,7 +4302,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Software\n\n                          "
+                                                                                                    "value": "Software"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -4325,23 +4325,23 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/software\n\n                      "
+                                                                                            "value": "/software"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -4354,11 +4354,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Software\n\n                          "
+                                                                                                    "value": "Software"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -4385,7 +4385,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -4393,7 +4393,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4402,11 +4402,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4415,19 +4415,19 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/software\n\n                              "
+                                                                                                            "value": "/software"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Downloads\n\n                              "
+                                                                                                            "value": "Downloads"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"ff\",\"hidden\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4447,15 +4447,15 @@ export const warranty = {
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Downloads\n\n                              "
+                                                                                                            "value": "Downloads"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "grid-placement",
-                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]\n\n                              "
+                                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ff\",\"shown\":true}]"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4499,19 +4499,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -4520,15 +4520,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/support\n\n                      "
+                                                                                            "value": "/support"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -4536,11 +4536,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4549,7 +4549,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Support\n\n                          "
+                                                                                                    "value": "Support"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -4572,31 +4572,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/support\n\n                      "
+                                                                                            "value": "/support"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -4609,11 +4609,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Support\n\n                          "
+                                                                                                    "value": "Support"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -4636,11 +4636,11 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -4648,7 +4648,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"5\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4657,11 +4657,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4670,15 +4670,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/support\n\n                              "
+                                                                                                            "value": "/support"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Contact Support\n\n                              "
+                                                                                                            "value": "Contact Support"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4702,11 +4702,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4715,15 +4715,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/warranty\n\n                              "
+                                                                                                            "value": "/warranty"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Warranty\n\n                              "
+                                                                                                            "value": "Warranty"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4767,19 +4767,19 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary2\"},{\"grid\":\"ii\",\"colour\":\"secondary1\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "border-style",
-                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"bottom\",\"width\":\"hair\"}]}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -4788,15 +4788,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/support\n\n                      "
+                                                                                            "value": "/support"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -4804,11 +4804,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4817,7 +4817,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Company Information\n\n                          "
+                                                                                                    "value": "Company Information"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -4840,31 +4840,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/support\n\n                      "
+                                                                                            "value": "/support"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -4877,11 +4877,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Company Information\n\n                          "
+                                                                                                    "value": "Company Information"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -4904,11 +4904,11 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -4916,7 +4916,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"10\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"10\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -4925,11 +4925,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4938,15 +4938,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/support\n\n                              "
+                                                                                                            "value": "/support"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Contact Us\n\n                              "
+                                                                                                            "value": "Contact Us"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -4970,11 +4970,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -4983,15 +4983,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/careers\n\n                              "
+                                                                                                            "value": "/careers"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Careers\n\n                              "
+                                                                                                            "value": "Careers"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -5015,11 +5015,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -5028,15 +5028,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/company-history\n\n                              "
+                                                                                                            "value": "/company-history"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Company History\n\n                              "
+                                                                                                            "value": "Company History"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -5060,11 +5060,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -5073,15 +5073,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/tunedem\n\n                              "
+                                                                                                            "value": "/tunedem"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Tune Dem\n\n                              "
+                                                                                                            "value": "Tune Dem"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -5105,11 +5105,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -5118,15 +5118,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/find-a-shop#visit\n\n                              "
+                                                                                                            "value": "/find-a-shop#visit"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Visit Linn\n\n                              "
+                                                                                                            "value": "Visit Linn"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -5170,11 +5170,11 @@ export const warranty = {
                                                                                 },
                                                                                 {
                                                                                     "name": "background-colour",
-                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"colour\":\"secondary0\"}]"
                                                                                 },
                                                                                 {
                                                                                     "name": "padding",
-                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"8\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]\n\n                  "
+                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"8\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"0\"},{\"edge\":\"bottom\",\"value\":\"0\"}]}]"
                                                                                 }
                                                                             ],
                                                                             "components": [
@@ -5183,15 +5183,15 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/trade\n\n                      "
+                                                                                            "value": "/trade"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"2-4\"},{\"grid\":\"ff\",\"position\":\"1-4\"},{\"grid\":\"ii\",\"hidden\":true}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
@@ -5199,11 +5199,11 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "underline-hover\n\n                      "
+                                                                                            "value": "underline-hover"
                                                                                         },
                                                                                         {
                                                                                             "name": "position",
-                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"positions\":[{\"position\":\"top\"},{\"position\":\"left\"},{\"position\":\"right\"},{\"position\":\"bottom\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -5212,7 +5212,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Trade\n\n                          "
+                                                                                                    "value": "Trade"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -5235,31 +5235,31 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "href",
-                                                                                            "value": "/trade\n\n                      "
+                                                                                            "value": "/trade"
                                                                                         },
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"hidden\":true},{\"grid\":\"ii\",\"shown\":true,\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour",
-                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"colour\":\"white\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"3\"}]}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "anchor-style",
-                                                                                            "value": "accordian-switch\n\n                      "
+                                                                                            "value": "accordian-switch"
                                                                                         },
                                                                                         {
                                                                                             "name": "shadow",
-                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"type\":\"left\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "accordian-max-width-enabled",
-                                                                                            "value": "579px\n\n                      "
+                                                                                            "value": "579px"
                                                                                         },
                                                                                         {
                                                                                             "name": "background-colour-hover",
@@ -5272,11 +5272,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "text",
-                                                                                                    "value": "Trade\n\n                          "
+                                                                                                    "value": "Trade"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ii\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -5299,11 +5299,11 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "grid-placement",
-                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"position\":\"5-12\"},{\"grid\":\"ff\",\"position\":\"5-12\"},{\"grid\":\"ii\",\"position\":\"1-12\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "font",
-                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"fontSize\":\"16\",\"fontWeight\":\"\",\"lineHeight\":\"30\"}]"
                                                                                         },
                                                                                         {
                                                                                             "name": "float-items",
@@ -5311,7 +5311,7 @@ export const warranty = {
                                                                                         },
                                                                                         {
                                                                                             "name": "padding",
-                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"10\"}]}]\n\n                      "
+                                                                                            "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"left\",\"value\":\"5\"}]},{\"grid\":\"ff\",\"edges\":[{\"edge\":\"left\",\"value\":\"0\"}]},{\"grid\":\"ii\",\"edges\":[{\"edge\":\"top\",\"value\":\"3\"},{\"edge\":\"bottom\",\"value\":\"10\"}]}]"
                                                                                         }
                                                                                     ],
                                                                                     "components": [
@@ -5320,11 +5320,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"6-8\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -5333,15 +5333,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/trade\n\n                              "
+                                                                                                            "value": "/trade"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "Retailer Portal\n\n                              "
+                                                                                                            "value": "Retailer Portal"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -5365,11 +5365,11 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "padding",
-                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"aa\",\"edges\":[{\"edge\":\"right\",\"value\":\"3\"}]}]"
                                                                                                 },
                                                                                                 {
                                                                                                     "name": "grid-placement",
-                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]\n\n                          "
+                                                                                                    "value": "[{\"grid\":\"ff\",\"position\":\"9-11\"},{\"grid\":\"ii\",\"position\":\"2-11\"},{\"grid\":\"jj\",\"position\":\"2-11\"}]"
                                                                                                 }
                                                                                             ],
                                                                                             "components": [
@@ -5378,15 +5378,15 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "href",
-                                                                                                            "value": "/account\n\n                              "
+                                                                                                            "value": "/account"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "text",
-                                                                                                            "value": "My Account\n\n                              "
+                                                                                                            "value": "My Account"
                                                                                                         },
                                                                                                         {
                                                                                                             "name": "anchor-style",
-                                                                                                            "value": "underline-hover\n\n                              "
+                                                                                                            "value": "underline-hover"
                                                                                                         }
                                                                                                     ],
                                                                                                     "components": [],
@@ -5454,11 +5454,11 @@ export const warranty = {
                                                                 },
                                                                 {
                                                                     "name": "border-style",
-                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"top\",\"width\":\"none\"},{\"border\":\"bottom\",\"width\":\"none\"},{\"border\":\"left\",\"width\":\"none\"},{\"border\":\"right\",\"width\":\"none\"}]}]\n\n          "
+                                                                    "value": "[{\"grid\":\"aa\",\"borders\":[{\"border\":\"top\",\"width\":\"none\"},{\"border\":\"bottom\",\"width\":\"none\"},{\"border\":\"left\",\"width\":\"none\"},{\"border\":\"right\",\"width\":\"none\"}]}]"
                                                                 },
                                                                 {
                                                                     "name": "font",
-                                                                    "value": "[{\"grid\":\"aa\",\"fontSize\":\"17\"}]\n\n          "
+                                                                    "value": "[{\"grid\":\"aa\",\"fontSize\":\"17\"}]"
                                                                 },
                                                                 {
                                                                     "name": "no-background",
@@ -5466,7 +5466,7 @@ export const warranty = {
                                                                 },
                                                                 {
                                                                     "name": "content-role",
-                                                                    "value": "content-switch\n\n          "
+                                                                    "value": "content-switch"
                                                                 },
                                                                 {
                                                                     "name": "target-content-id",
@@ -6044,7 +6044,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "markdown",
-                                                                                                    "value": "###Get the latest from Linn, direct to your inbox\n\nSubscribe to find out about new Linn products, music, offers and exclusive events in your area.\n\n                              \n                      "
+                                                                                                    "value": "### Get the latest from Linn, direct to your inbox\n\nSubscribe to find out about new Linn products, music, offers and exclusive events in your area.\n\n                              \n                      "
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -6310,7 +6310,7 @@ export const warranty = {
                                                                                             "properties": [
                                                                                                 {
                                                                                                     "name": "markdown",
-                                                                                                    "value": "###You're subscribed.  <br/>Now let us tailor your news.\n\nAdd a few more details and we'll tailor your news. Be the first to know about Linn events in your area and special local offers.\n                      "
+                                                                                                    "value": "### You're subscribed.  <br/>Now let us tailor your news.\n\nAdd a few more details and we'll tailor your news. Be the first to know about Linn events in your area and special local offers.\n                      "
                                                                                                 }
                                                                                             ],
                                                                                             "path": null,
@@ -12425,7 +12425,7 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "markdown",
-                                                                                            "value": "###Thanks. You're subscribed."
+                                                                                            "value": "### Thanks. You're subscribed."
                                                                                         }
                                                                                     ],
                                                                                     "path": null,
@@ -12469,7 +12469,7 @@ export const warranty = {
                                                                                     "properties": [
                                                                                         {
                                                                                             "name": "markdown",
-                                                                                            "value": "####Oh dear. It seems something's gone wrong.  \n\nYou can either try again, or perhaps just come back later.\n                          \n                  "
+                                                                                            "value": "#### Oh dear. It seems something's gone wrong.  \n\nYou can either try again, or perhaps just come back later.\n                          \n                  "
                                                                                         }
                                                                                     ],
                                                                                     "path": null,
@@ -12625,7 +12625,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "\n#####[Music Systems](/music-systems)\n- [Klimax](/music-systems/klimax)\n- [Akubarik](/music-systems/akubarik)\n- [Akudorik](/music-systems/akudorik)\n- [Series 5](/music-systems/series-5)\n- [Majik](/music-systems/majik)\n- [Kiko](/music-systems/kiko)\n                                              \n                                          "
+                                                                                                            "value": "\n##### [Music Systems](/music-systems)\n- [Klimax](/music-systems/klimax)\n- [Akubarik](/music-systems/akubarik)\n- [Akudorik](/music-systems/akudorik)\n- [Series 5](/music-systems/series-5)\n- [Majik](/music-systems/majik)\n- [Kiko](/music-systems/kiko)\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -12669,7 +12669,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "#####[Hi-Fi Separates](/hifi-separates)\n- [Network Music Players](/hifi-separates/network-music-players)\n- [Speakers](/hifi-separates/speakers)\n- [Turntables](/hifi-separates/turntables)\n- [Upgrades](/hifi-separates/upgrades)\n- [Power Amps](/hifi-separates/power-amps)\n- [Accessories](/hifi-separates/accessories)\n\n\n\n\n                                              \n                                          "
+                                                                                                            "value": "##### [Hi-Fi Separates](/hifi-separates)\n- [Network Music Players](/hifi-separates/network-music-players)\n- [Speakers](/hifi-separates/speakers)\n- [Turntables](/hifi-separates/turntables)\n- [Upgrades](/hifi-separates/upgrades)\n- [Power Amps](/hifi-separates/power-amps)\n- [Accessories](/hifi-separates/accessories)\n\n\n\n\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -12721,7 +12721,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "\n#####Technology\n- [Space Optimisation](/technology/space-optimisation)\n- [Exakt](/technology/exakt)\n- [Katalyst](/technology/katalyst)\n\n\n\n                                              \n                                          "
+                                                                                                            "value": "\n##### Technology\n- [Space Optimisation](/technology/space-optimisation)\n- [Exakt](/technology/exakt)\n- [Katalyst](/technology/katalyst)\n\n\n\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -12773,7 +12773,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "#####[Support](/support)\n- [Using your System](/support/using-your-system)\n- [Software &amp; Apps](/software)\n- [Warranty](/warranty)\n\n\n\n\n\n\n                                              \n                                          "
+                                                                                                            "value": "##### [Support](/support)\n- [Using your System](/support/using-your-system)\n- [Software &amp; Apps](/software)\n- [Warranty](/warranty)\n\n\n\n\n\n\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -12904,7 +12904,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "#####[Community](/community)\n- [Forums](https://forums.linn.co.uk/)\n- [News](http://news.linn.co.uk/)\n- [Blog](/blog)\n- [Facebook](http://facebook.com/linnhifi)\n- [Twitter](http://twitter.com/LinnProducts)\n\n\n\n\n\n                                              \n                                          "
+                                                                                                            "value": "##### [Community](/community)\n- [Forums](https://forums.linn.co.uk/)\n- [News](http://news.linn.co.uk/)\n- [Blog](/blog)\n- [Facebook](http://facebook.com/linnhifi)\n- [Twitter](http://twitter.com/LinnProducts)\n\n\n\n\n\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -12956,7 +12956,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "#####[About Linn](/about)\n- [What We Do](/about)\n- [Our Story](/about/our-story)\n- [Visit Linn](/find-a-shop#visit)\n- [Contact us](/support)\n\n<br/>\n#####[Trade](/trade)\n- [Retailer Portal](/trade)\n- [My Account](/account)\n\n\n\n\n\n                                              \n                                          "
+                                                                                                            "value": "##### [About Linn](/about)\n- [What We Do](/about)\n- [Our Story](/about/our-story)\n- [Visit Linn](/find-a-shop#visit)\n- [Contact us](/support)\n\n<br/>\n##### [Trade](/trade)\n- [Retailer Portal](/trade)\n- [My Account](/account)\n\n\n\n\n\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -13008,7 +13008,7 @@ export const warranty = {
                                                                                                     "properties": [
                                                                                                         {
                                                                                                             "name": "markdown",
-                                                                                                            "value": "\n#####Company Info\n- [Careers](/careers)\n- [Company History](/company-history)\n- [Events](/events)\n- [Privacy Policy](/privacy)\n- [Travel Directions](/travel-directions)\n- [Tune Dem](/tunedem)\n- [Environmental Policy](/environmental)\n\n\n\n\n                                              \n                                          "
+                                                                                                            "value": "\n##### Company Info\n- [Careers](/careers)\n- [Company History](/company-history)\n- [Events](/events)\n- [Privacy Policy](/privacy)\n- [Travel Directions](/travel-directions)\n- [Tune Dem](/tunedem)\n- [Environmental Policy](/environmental)\n\n\n\n\n                                              \n                                          "
                                                                                                         }
                                                                                                     ],
                                                                                                     "path": null,
@@ -13073,7 +13073,7 @@ export const warranty = {
                                                                                                             "properties": [
                                                                                                                 {
                                                                                                                     "name": "markdown",
-                                                                                                                    "value": "#####Find a Shop\n\n<a href=\"/find-a-shop\">Browse</a>\n\n                                                  \n                                              "
+                                                                                                                    "value": "##### Find a Shop\n\n<a href=\"/find-a-shop\">Browse</a>\n\n                                                  \n                                              "
                                                                                                                 }
                                                                                                             ],
                                                                                                             "path": null,
@@ -13117,7 +13117,7 @@ export const warranty = {
                                                                                                             "properties": [
                                                                                                                 {
                                                                                                                     "name": "markdown",
-                                                                                                                    "value": "#####Try a System\n\n<a href=\"/try-a-system\">Book Now</a>\n                                                  \n                                              "
+                                                                                                                    "value": "##### Try a System\n\n<a href=\"/try-a-system\">Book Now</a>\n                                                  \n                                              "
                                                                                                                 }
                                                                                                             ],
                                                                                                             "path": null,
@@ -14395,7 +14395,7 @@ export const warranty = {
                                     "properties": [
                                         {
                                             "name": "html",
-                                            "value": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\n\nfbq('init', '259824571056543');\nfbq('track', \"PageView\");</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=259824571056543&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n\n          "
+                                            "value": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\n\nfbq('init', '259824571056543');\nfbq('track', \"PageView\");</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=259824571056543&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->"
                                         }
                                     ],
                                     "path": null,
